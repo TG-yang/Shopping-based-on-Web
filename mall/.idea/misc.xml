@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mall-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-cart/mall-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-content/mall-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-manager/mall-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-order/mall-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-search/mall-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-sso/mall-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url=" http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/dubbo.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

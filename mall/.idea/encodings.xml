@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart/mall-cart-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart/mall-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-content/mall-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-content/mall-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order/mall-order-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order/mall-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-search/mall-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-search/mall-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-sso-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-sso/mall-sso-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-sso/mall-sso-service" charset="UTF-8" />
+  </component>
+</project>

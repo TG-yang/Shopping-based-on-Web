@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mall-search-web:war">
+    <output-path>$PROJECT_DIR$/mall-search-web/target</output-path>
+    <root id="archive" name="mall-search-web.war">
+      <element id="artifact" artifact-name="mall-search-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mall-cart-interface" />
+        <module name="mall-cart-service" />
+        <module name="mall-cart-web" />
+        <module name="mall-common" />
+        <module name="mall-content-interface" />
+        <module name="mall-content-service" />
+        <module name="mall-item-web" />
+        <module name="mall-manager-dao" />
+        <module name="mall-manager-interface" />
+        <module name="mall-manager-pojo" />
+        <module name="mall-manager-service" />
+        <module name="mall-manager-web" />
+        <module name="mall-order-interface" />
+        <module name="mall-order-service" />
+        <module name="mall-order-web" />
+        <module name="mall-portal-web" />
+        <module name="mall-search-interface" />
+        <module name="mall-search-service" />
+        <module name="mall-search-web" />
+        <module name="mall-sso-interface" />
+        <module name="mall-sso-service" />
+        <module name="mall-sso-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mall" target="1.7" />
+      <module name="mall-cart" target="1.7" />
+      <module name="mall-cart-interface" target="1.7" />
+      <module name="mall-cart-service" target="1.7" />
+      <module name="mall-cart-web" target="1.7" />
+      <module name="mall-common" target="1.7" />
+      <module name="mall-content" target="1.7" />
+      <module name="mall-content-interface" target="1.7" />
+      <module name="mall-content-service" target="1.7" />
+      <module name="mall-item-web" target="1.7" />
+      <module name="mall-manager" target="1.7" />
+      <module name="mall-manager-dao" target="1.7" />
+      <module name="mall-manager-interface" target="1.7" />
+      <module name="mall-manager-pojo" target="1.7" />
+      <module name="mall-manager-service" target="1.7" />
+      <module name="mall-manager-web" target="1.7" />
+      <module name="mall-order" target="1.7" />
+      <module name="mall-order-interface" target="1.7" />
+      <module name="mall-order-service" target="1.7" />
+      <module name="mall-order-web" target="1.7" />
+      <module name="mall-portal-web" target="1.7" />
+      <module name="mall-search" target="1.7" />
+      <module name="mall-search-interface" target="1.7" />
+      <module name="mall-search-service" target="1.7" />
+      <module name="mall-search-web" target="1.7" />
+      <module name="mall-sso" target="1.7" />
+      <module name="mall-sso-interface" target="1.7" />
+      <module name="mall-sso-service" target="1.7" />
+      <module name="mall-sso-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
